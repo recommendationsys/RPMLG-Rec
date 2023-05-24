@@ -15,4 +15,5 @@ PyTorch 1.1+
 # To run the experiments:
 
 python data_generation.py
+
 python main.py
